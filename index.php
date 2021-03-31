@@ -121,8 +121,7 @@ else {
 
     <div class="wide">
       	<div class="col-xs-5 line"><hr></div>
-        <div class="col-xs-2 logo"><img src="images/LogoImage.jpg"></div><br>
-        <div class="col-xs-2 line"><img src="images/LogoImage.jpg"></div>
+        <div class="col-xs-2 logo"><img src="images/LogoImage.jpg"></div>
         <div class="col-xs-5 line"><hr></div>
         <div class="tagline">Good Food is Good Mood</div>
     </div>
